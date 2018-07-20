@@ -27,8 +27,7 @@ And implemented by `SystemC` language.
     
     Gtkwave is a software for displaying signal simulation in vawe figure.
     
-    You can produce a .vcd output file via systemc that is the final simulation
-    
+    You can produce a **.vcd** output file via systemc
     Then you can open it via gtkwave software and watch the simulation.
     
     You can download gtkwave in ***Ubuntu*** by using:

@@ -11,5 +11,13 @@ And implemented by `SystemC` language.
 - ### Prerequisites
   - Installing SystemC
   
-    systemc is available for windows/mac/linux
+    Systemc is available for windows/mac/linux platforms
+    
+    You can see the installing documentation for each one here:
+    
+      - [linux]()
+      - [mac]()
+      - [windows]()
+      
+    
     

@@ -33,6 +33,15 @@ And implemented by `SystemC` language.
     You can download gtkwave in ***Ubuntu*** by using:
     
     <pre> sudo apt install gtkwave </pre>
+    
+- ### Subject
+  - #### Problem
+    
+    You can figure it out what the project exactly is about here: [project description]()
+    
+  - #### Solution
+    
+    You can see the design, architecture and the datapath of this project here: [project-design]() 
       
     
     

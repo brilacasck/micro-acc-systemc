@@ -23,5 +23,17 @@ And implemented by `SystemC` language.
       - [mac]()
       - [windows]()
       
+  - #### Installing GtkWave
+    
+    Gtkwave is a software for displaying signal simulation in vawe figure.
+    
+    You can produce a .vcd output file via systemc that is the final simulation
+    
+    Then you can open it via gtkwave software and watch the simulation.
+    
+    You can download gtkwave in ***Ubuntu*** by using:
+    
+    <pre> sudo apt install gtkwave </pre>
+      
     
     

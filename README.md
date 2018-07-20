@@ -17,7 +17,7 @@ And implemented by `SystemC` language.
   
     SystemC is a set of C++ classes and macros which provide an event-driven simulation interface and is available for windows/mac/linux operating systems
     
-    You can see the installation documentation for each one:
+    You can see the ***SystemC*** installation documentation for each one:
     
       - [linux]()
       - [mac]()

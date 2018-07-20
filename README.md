@@ -15,9 +15,9 @@ And implemented by `SystemC` language.
 - ### Prerequisites
   - Installing SystemC
   
-    Systemc is available for windows/mac/linux platforms
+    SystemC is a set of C++ classes and macros which provide an event-driven simulation interface and is available for windows/mac/linux operating systems
     
-    You can see the installing documentation for each one here:
+    You can see the installing documentation for each one:
     
       - [linux]()
       - [mac]()

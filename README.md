@@ -132,6 +132,8 @@ The hierarchy display of the modules is demonstrated here:
   
 ***Note That the main testbench is named main.cpp, tests the System.cpp module***
 
+***Note that some couple of the opselect values for ALU are the same, so we get help from the main opcode and recognize the aluop*** 
+
 <hr />
 
 

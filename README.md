@@ -125,6 +125,8 @@ The hierarchy display of the modules is demonstrated here:
 
 ***Note that the System works with bus-clk (clk_bus) which is faster than the micro clk (clk)***
 
+<br />
+
 ***Note that there is two subfoler in this repository named `instructions` and `test`***
 
   - test folder : all testbenches for all components (some of these files are empty -> you can fill it yourself)
@@ -134,7 +136,9 @@ The hierarchy display of the modules is demonstrated here:
 
 ***Note that some couple of the opselect values for ALU are the same, so we get help from the main opcode and recognize the aluop*** 
 
-***Note that some needed signals like controlling bits and immediate value (also known as offset) propagate through the middle registers -> IF, ID, EXE, WB*** 
+***Note that some needed signals like controlling bits and immediate value (also known as offset) are propagated through the middle registers  (IF, ID, EXE, WB)*** 
+
+<br />
 
 ***Note that these modules work with micro-clk:***
 

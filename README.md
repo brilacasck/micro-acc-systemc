@@ -179,7 +179,7 @@ The hierarchy display of the modules is demonstrated here:
 
 To display the wave form results, you must **compile** the `main.cpp` file via **systemc compilation command**, you can use this [documentation]()
 
-When compilation finished, a .vcd file will be created, named `project.vcd` in the primary folder.
+When compilation finished, a .vcd file will be created, named `project.vcd` in the root path of repository.
 
 You can open this file via gtkwave software.
 
@@ -197,8 +197,8 @@ If everything goes correct, your output would be like this: [wave-result]()
 
 # Authors
 
-  - Alireza Kavian (@[alirezakay](https://github.com/alirezakay))
-  - Soheil Changizi ([@cocolico12](https://github.com/cocolico12))
+  - Alireza Kavian ( @[alirezakay](https://github.com/alirezakay) )
+  - Soheil Changizi ( [@cocolico14](https://github.com/cocolico14) )
 
 # License
 

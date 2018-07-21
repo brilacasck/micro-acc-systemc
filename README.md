@@ -25,9 +25,9 @@ And implemented with `SystemC` language.
     
     You can see the ***SystemC installation*** documentation for each one:
     
-      - [linux]()
-      - [mac]()
-      - [windows]()
+      - [linux](http://blog.brilacasck.ir/index.php/2018/07/18/how-to-easily-install-system-c-on-ubuntu/)
+      - mac()
+      - windows()
       
   - #### Installing GtkWave
     
@@ -43,11 +43,11 @@ And implemented with `SystemC` language.
 - ### Subject
   - #### Problem
     
-    You can figure it out what the project exactly is about here: [project description]()
+    You can figure it out what the project exactly is about here: [project description](./assets/hw-sw_project-description.pdf)
     
   - #### Solution
     
-    You can see the design, architecture and the datapath of this project here: [project-design]() 
+    You can see the design, architecture and the datapath of this project here: [project-design](./assets/HWSW-PROJECT-ISA.pdf) 
     
 <hr />
 <hr />
@@ -179,7 +179,7 @@ The hierarchy display of the modules is demonstrated here:
 
 ## Results
 
-To display the wave form results, you must **compile** the `main.cpp` file via **systemc compilation command**, you can use this [documentation]()
+To display the wave form results, you must **compile** the `main.cpp` file via **systemc compilation command**, you can use this [documentation](http://blog.brilacasck.ir/index.php/2018/07/18/how-to-easily-install-system-c-on-ubuntu/)
 
 When compilation finished, a .vcd file will be created, named `project.vcd` in the root path of repository.
 
@@ -193,7 +193,9 @@ A window will be opened by gtkwave. now you need to select SystemC branch in the
 
 You can drag each signal and drop them to the `Signals` sub window for displaying the wave.
 
-If everything goes correct, your output would be like this: [wave-result]()
+If everything goes correct, your output would be like this: [wave-result](hw-sw_project_wave.png)
+
+Don't remember to zoom out the waves sub window! 
 
 <hr />
 

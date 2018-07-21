@@ -123,7 +123,7 @@ The hierarchy display of the modules is demonstrated here:
 
 ***Note that the System works with bus-clk (clk_bus) which is faster than the micro clk (clk)***
 
-***Note that there is two subfoler in this repository named `instructions` and `test` ***
+***Note that there is two subfoler in this repository named `instructions` and `test`***
 
   - test folder : all testbenchs for all components (some of these files are empty -> you can fill it yourself)
   - instructions folder: there is files you can see binary micro-processor instructions you can put them into IR.cpp file.  

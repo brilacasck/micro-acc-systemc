@@ -189,7 +189,7 @@ A window will be opened by gtkwave. now you need to select SystemC branch in the
 
 You can drag each signal and drop them to the `Signals` sub window for displaying the wave.
 
-If everything goes correct, your output would be like this: [wave-result](hw-sw_project_wave.png)
+If everything goes correct, your output would be like this: ![wave-result](hw-sw_project_wave.png)
 
 Don't remember to zoom out the waves sub window! 
 

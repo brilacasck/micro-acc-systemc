@@ -21,7 +21,7 @@ And implemented with `SystemC` language.
     
     You can see the ***SystemC installation*** documentation for each one:
     
-      - [linux](http://blog.brilacasck.ir/index.php/2018/07/18/how-to-easily-install-system-c-on-ubuntu/)
+      - ![linux](http://blog.brilacasck.ir/index.php/2018/07/18/how-to-easily-install-system-c-on-ubuntu/)
       - mac()
       - windows()
       
@@ -175,7 +175,7 @@ The hierarchy display of the modules is demonstrated here:
 
 ## Results
 
-To display the wave form results, you must **compile** the `main.cpp` file via **systemc compilation command**, you can use this [documentation](http://blog.brilacasck.ir/index.php/2018/07/18/how-to-easily-install-system-c-on-ubuntu/)
+To display the wave form results, you must **compile** the `main.cpp` file via **systemc compilation command**, you can use this ![documentation](http://blog.brilacasck.ir/index.php/2018/07/18/how-to-easily-install-system-c-on-ubuntu/)
 
 When compilation finished, a .vcd file will be created, named `project.vcd` in the root path of repository.
 
@@ -191,7 +191,7 @@ You can drag each signal and drop them to the `Signals` sub window for displayin
 
 If everything goes correct, your output would be like this: 
 
-![wave-result](hw-sw_project_wave.png)
+![wave-result](./assets/hw-sw_project_wave.png)
 
 Don't remember to zoom out the waves sub window! 
 
@@ -199,12 +199,12 @@ Don't remember to zoom out the waves sub window!
 
 ## Authors
 
-  - Alireza Kavian ( [@alirezakay](https://github.com/alirezakay) )
-  - Soheil Changizi ( [@cocolico14](https://github.com/cocolico14) )
+  - Alireza Kavian ( ![@alirezakay](https://github.com/alirezakay) )
+  - Soheil Changizi ( ![@cocolico14](https://github.com/cocolico14) )
   
 ## Org.
 
-  - ***[Brilacasck](https://brilacasck.ir)*** 
+  - ***![Brilacasck](https://brilacasck.ir)*** 
   
 ## Team
   

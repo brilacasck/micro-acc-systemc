@@ -199,6 +199,14 @@ If everything goes correct, your output would be like this: [wave-result]()
 
   - Alireza Kavian ( @[alirezakay](https://github.com/alirezakay) )
   - Soheil Changizi ( [@cocolico14](https://github.com/cocolico14) )
+  
+## Organization
+
+  **BrilacAsck** 
+  
+## Team
+  
+  **ASCK**
 
 ## License
 

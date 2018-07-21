@@ -63,5 +63,71 @@ And implemented with `SystemC` language.
   - Mux3 (multiplexer with 3 bits data and 1 bit selector)
   - Mux8 (multiplexer with 8 bits data and 1 bit selector)
     
-    
-    
+### Some More Documentation
+
+*
+*   @ASCK-TEAM
+*
+
+THIS PROJECT IS ABOUT ARCHITECTING A HARDWARE-SOFTWARE ARCHITECTURE USING SYSTEMC
+
+..
+
+The version of SystemC which is used in this project is 2.3.1
+
+..
+
+..
+
+..
+
+The hierarchy display of the modules is demonstrated here:
+
+..
+
+----System
+
+-----------| 
+
+-----------Micro
+
+------------------|
+
+------------------PC         //program counter
+
+------------------IR         //Instruction Memory
+
+------------------IF         //Instruction Fetch Register (for pipeline)
+
+------------------RegFile    //Register File
+
+------------------ID         //Instruction Decode Register (for pipeline)
+
+------------------ALU        //Arithmetic/Logic Unit
+
+------------------Mux3       //Multiplexer 2 inputs with 3 bits
+
+------------------Mux8       //Multiplexer 2 inputs with 8 bits
+
+------------------EXE        //Instruction Execution Register (for pipeline)
+
+------------------WB         //Instruction WriteBack Register (for pipeline) 
+
+-----------Bus
+
+-----------Memory
+
+-----------Acc
+
+----
+
+..
+
+***Note that Micro is a micro processor with synch clk which its rate is a quarter of bus-clk***
+
+***Note that the accelerator is a separate component helping the main micro in computing***
+
+***Note that the accelerator works asynchronous so that we need events for using wait/notify***
+
+***Note that the System works with bus-clk (clk_bus) which is faster than the micro clk (clk)***
+

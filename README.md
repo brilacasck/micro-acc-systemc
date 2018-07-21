@@ -9,6 +9,10 @@
 
 <hr />
 
+*
+*   @ASCK-TEAM
+*
+
 ## Getting Started
 This repository exposed here, is actually a university project of the course `hardware software co-design`
 
@@ -65,25 +69,13 @@ And implemented with `SystemC` language.
     
 ### Some More Documentation
 
-*
-*   @ASCK-TEAM
-*
 
 THIS PROJECT IS ABOUT ARCHITECTING A HARDWARE-SOFTWARE ARCHITECTURE USING SYSTEMC
 
-..
-
 The version of SystemC which is used in this project is 2.3.1
-
-..
-
-..
-
-..
 
 The hierarchy display of the modules is demonstrated here:
 
-..
 
 ----System
 
@@ -119,9 +111,9 @@ The hierarchy display of the modules is demonstrated here:
 
 -----------Acc
 
-----
+----/
 
-..
+<hr />
 
 ***Note that Micro is a micro processor with synch clk which its rate is a quarter of bus-clk***
 
@@ -130,4 +122,8 @@ The hierarchy display of the modules is demonstrated here:
 ***Note that the accelerator works asynchronous so that we need events for using wait/notify***
 
 ***Note that the System works with bus-clk (clk_bus) which is faster than the micro clk (clk)***
+
+<hr />
+
+
 

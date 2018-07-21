@@ -49,5 +49,19 @@ And implemented with `SystemC` language.
 
 ## Proof Of Concepts
       
+  The datapath of the hardware consists of:
+    
+  - PC (program counter)
+  - IR (instruction memory)
+  - IF (instruction fetch phase middle register - for pipelining)
+  - RegFile (register file)
+  - ID (instruction decode phase middle register - for piplining)
+  - ALU (arithmetic/logic unit)
+  - EXE (instruction execution phase middle register - for piplining)
+  - MEM (share memory between micro and accelerator)
+  - WB (instruction write back phase middle register - for piplinig)
+  - Mux3 (multiplexer with 3 bits data and 1 bit selector)
+  - Mux8 (multiplexer with 8 bits data and 1 bit selector)
+    
     
     

@@ -5,6 +5,8 @@
 # micro-acc-systemc
 > simulating connection of micro processor and accelerator on a bus context with systemc language 
 
+![micro-acc-systemc image](https://github.com/BRILACASCK/micro-acc-systemc/assets/micro-acc-systemc.png)
+
 <hr />
 
 ## Getting Started

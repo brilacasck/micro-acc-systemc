@@ -31,7 +31,7 @@ And implemented with `SystemC` language.
       
   - #### Installing GtkWave
     
-    Gtkwave is a software for displaying signals simulation in a vawe figure.
+    Gtkwave is a software for displaying signals simulation in a wave figure.
     
     You can produce a **.vcd** output file via systemc
     Then you can open it via gtkwave software and watch the simulation.
@@ -174,6 +174,37 @@ The hierarchy display of the modules is demonstrated here:
   - WB
 
 <hr />
+
+# Results
+
+To display the wave form results, you must **compile** the `main.cpp` file via **systemc compilation command**, you can use this [documentation]()
+
+When compilation finished, a .vcd file will be created, named `project.vcd` in the primary folder.
+
+You can open this file via gtkwave software.
+
+In Ubuntu go to the primary folder in which <i>project.vcd</i> file is created and run this command:
+
+<pre> gtkvawe project.vcd </pre>
+
+A window will be opened by gtkwave. now you need to select SystemC branch in the left sub window. the input and output signals which were declared in main.cpp will be shown beneath the sub window.
+
+You can drag each signal and drop them to the `Signals` sub window for displaying the wave.
+
+If everything goes correct, your output would be like this: [wave-result]()
+
+<hr />
+
+# Authors
+
+  - Alireza Kavian (@[alirezakay](https://github.com/alirezakay))
+  - Soheil Changizi ([@cocolico12](https://github.com/cocolico12))
+
+# License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
+
+
 
 
 

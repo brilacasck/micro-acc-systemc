@@ -134,6 +134,41 @@ The hierarchy display of the modules is demonstrated here:
 
 ***Note that some couple of the opselect values for ALU are the same, so we get help from the main opcode and recognize the aluop*** 
 
+***Note that some needed signals like controlling bits and immediate value (also known as offset) propagate through the middle registers -> IF, ID, EXE, WB*** 
+
+***Note that these modules work with micro-clk:***
+
+  - Micro
+  - PC
+  - IF
+  - ID
+  - EXE
+  - WB
+  
+***Note that these modules work with bus-clk:***
+
+  - Bus
+  - System
+  
+***Note that these modules doesn't work with clk at all:***
+
+  - IR
+  - Controller
+  - Mux3
+  - Mux8
+  - RegFile
+  - ALU
+  - MEM
+  
+
+***Note that these modules work with SC_THREAD simulation:***
+
+  - Micro
+  - IF
+  - ID
+  - EXE
+  - WB
+
 <hr />
 
 

@@ -175,7 +175,7 @@ The hierarchy display of the modules is demonstrated here:
 
 <hr />
 
-# Results
+## Results
 
 To display the wave form results, you must **compile** the `main.cpp` file via **systemc compilation command**, you can use this [documentation]()
 
@@ -195,12 +195,12 @@ If everything goes correct, your output would be like this: [wave-result]()
 
 <hr />
 
-# Authors
+## Authors
 
   - Alireza Kavian ( @[alirezakay](https://github.com/alirezakay) )
   - Soheil Changizi ( [@cocolico14](https://github.com/cocolico14) )
 
-# License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
 

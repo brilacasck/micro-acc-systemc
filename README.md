@@ -67,7 +67,7 @@ And implemented with `SystemC` language.
   - Mux3 (multiplexer with 3 bits data and 1 bit selector)
   - Mux8 (multiplexer with 8 bits data and 1 bit selector)
     
-### Some More Documentation
+### <i> Some More Documentation </i>
 
 
 THIS PROJECT IS ABOUT ARCHITECTING A HARDWARE-SOFTWARE ARCHITECTURE USING SYSTEMC
@@ -122,6 +122,11 @@ The hierarchy display of the modules is demonstrated here:
 ***Note that the accelerator works asynchronous so that we need events for using wait/notify***
 
 ***Note that the System works with bus-clk (clk_bus) which is faster than the micro clk (clk)***
+
+***Note that there is two subfoler in this repository named `instructions` and `test` ***
+
+  - test folder : all testbenchs for all components (some of these files are empty -> you can fill it yourself)
+  - instructions folder: there is files you can see binary micro-processor instructions you can put them into IR.cpp file.  
 
 <hr />
 

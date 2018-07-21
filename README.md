@@ -21,7 +21,7 @@ And implemented with `SystemC` language.
     
     You can see the ***SystemC installation*** documentation for each one:
     
-      - [linux](http://blog.brilacasck.ir/index.php/2018/07/18/how-to-easily-install-system-c-on-ubuntu/){:target="_blank"}
+      - [linux](http://blog.brilacasck.ir/index.php/2018/07/18/how-to-easily-install-system-c-on-ubuntu/)
       - mac()
       - windows()
       
@@ -39,11 +39,11 @@ And implemented with `SystemC` language.
 - ### Subject
   - #### Problem
     
-    You can figure it out what the project exactly is about here: [project description](./assets/hw-sw_project-description.pdf){:target="_blank"}
+    You can figure it out what the project exactly is about here: [project description](./assets/hw-sw_project-description.pdf)
     
   - #### Solution
     
-    You can see the design, architecture and the datapath of this project here: [project-design](./assets/HWSW-PROJECT-ISA.pdf){:target="_blank"} 
+    You can see the design, architecture and the datapath of this project here: [project-design](./assets/HWSW-PROJECT-ISA.pdf) 
     
 <hr />
 <hr />
@@ -175,7 +175,7 @@ The hierarchy display of the modules is demonstrated here:
 
 ## Results
 
-To display the wave form results, you must **compile** the `main.cpp` file via **systemc compilation command**, you can use this [documentation](http://blog.brilacasck.ir/index.php/2018/07/18/how-to-easily-install-system-c-on-ubuntu/){:target="_blank"}
+To display the wave form results, you must **compile** the `main.cpp` file via **systemc compilation command**, you can use this [documentation](http://blog.brilacasck.ir/index.php/2018/07/18/how-to-easily-install-system-c-on-ubuntu/)
 
 When compilation finished, a .vcd file will be created, named `project.vcd` in the root path of repository.
 
@@ -199,12 +199,12 @@ Don't remember to zoom out the waves sub window!
 
 ## Authors
 
-  - Alireza Kavian ( [@alirezakay](https://github.com/alirezakay){:target="_blank"} )
-  - Soheil Changizi ( [@cocolico14](https://github.com/cocolico14){:target="_blank"} )
+  - Alireza Kavian ( [@alirezakay](https://github.com/alirezakay) )
+  - Soheil Changizi ( [@cocolico14](https://github.com/cocolico14) )
   
 ## Org.
 
-  - ***[Brilacasck](https://brilacasck.ir){:target="_blank"}*** 
+  - ***[Brilacasck](https://brilacasck.ir)*** 
   
 ## Team
   

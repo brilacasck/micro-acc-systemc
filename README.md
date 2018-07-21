@@ -50,6 +50,7 @@ And implemented with `SystemC` language.
     You can see the design, architecture and the datapath of this project here: [project-design]() 
     
 <hr />
+<hr />
 
 ## Proof Of Concepts
       
@@ -173,6 +174,7 @@ The hierarchy display of the modules is demonstrated here:
   - EXE
   - WB
 
+<hr />
 <hr />
 
 ## Results

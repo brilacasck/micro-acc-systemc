@@ -128,7 +128,9 @@ The hierarchy display of the modules is demonstrated here:
 ***Note that there is two subfoler in this repository named `instructions` and `test`***
 
   - test folder : all testbenches for all components (some of these files are empty -> you can fill it yourself)
-  - instructions folder: there are files you can see the binary micro-processor instructions you can put them into IR.cpp file.  
+  - instructions folder: there are files you can see the binary micro-processor instructions you can put them into IR.cpp file.
+  
+***Note That the main testbench is named main.cpp, tests the System.cpp module***
 
 <hr />
 

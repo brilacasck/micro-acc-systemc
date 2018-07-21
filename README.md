@@ -115,7 +115,7 @@ The hierarchy display of the modules is demonstrated here:
 
 <hr />
 
-> NOTE
+> NOTES
 
 ***Note that Micro is a micro processor with synch clk which its rate is a quarter of bus-clk***
 
@@ -123,7 +123,7 @@ The hierarchy display of the modules is demonstrated here:
 
 ***Note that the accelerator works asynchronous so that we need events for using wait/notify***
 
-***Note that the System works with bus-clk (clk_bus) which is faster than the micro clk (clk)***
+***Note that the System works with `bus-clk` (clk_bus) which is `faster than` the `micro clk` (clk)***
 
 <br />
 
@@ -140,7 +140,7 @@ The hierarchy display of the modules is demonstrated here:
 
 <br />
 
-***Note that these modules work with micro-clk:***
+***Note that these modules work with `micro-clk`:***
 
   - Micro
   - PC
@@ -149,12 +149,12 @@ The hierarchy display of the modules is demonstrated here:
   - EXE
   - WB
   
-***Note that these modules work with bus-clk:***
+***Note that these modules work with `bus-clk`:***
 
   - Bus
   - System
   
-***Note that these modules doesn't work with clk at all:***
+***Note that these modules works with `no clk` at all:***
 
   - IR
   - Controller
@@ -165,7 +165,7 @@ The hierarchy display of the modules is demonstrated here:
   - MEM
   
 
-***Note that these modules work with SC_THREAD simulation:***
+***Note that these modules work with `SC_THREAD` simulation:***
 
   - Micro
   - IF

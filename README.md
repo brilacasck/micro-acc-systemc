@@ -115,6 +115,8 @@ The hierarchy display of the modules is demonstrated here:
 
 <hr />
 
+> NOTE
+
 ***Note that Micro is a micro processor with synch clk which its rate is a quarter of bus-clk***
 
 ***Note that the accelerator is a separate component helping the main micro in computing***
@@ -125,8 +127,8 @@ The hierarchy display of the modules is demonstrated here:
 
 ***Note that there is two subfoler in this repository named `instructions` and `test`***
 
-  - test folder : all testbenchs for all components (some of these files are empty -> you can fill it yourself)
-  - instructions folder: there is files you can see binary micro-processor instructions you can put them into IR.cpp file.  
+  - test folder : all testbenches for all components (some of these files are empty -> you can fill it yourself)
+  - instructions folder: there are files you can see the binary micro-processor instructions you can put them into IR.cpp file.  
 
 <hr />
 

@@ -1,7 +1,3 @@
-# **🛠️ Repository Under Construction 🛠️**
-
-<hr />
-
 # micro-acc-systemc
 > simulating connection of micro processor and accelerator on a bus context with systemc language 
 
@@ -201,16 +197,16 @@ Don't remember to zoom out the waves sub window!
 
 ## Authors
 
-  - Alireza Kavian ( @[alirezakay](https://github.com/alirezakay) )
+  - Alireza Kavian ( [@alirezakay](https://github.com/alirezakay) )
   - Soheil Changizi ( [@cocolico14](https://github.com/cocolico14) )
   
-## Organization
+## Org.
 
-  - **[BrilacAsck](https://brilacasck.ir)** 
+  - ***[Brilacasck](https://brilacasck.ir)*** 
   
 ## Team
   
-  - **ASCK**
+  - ***ASCK TEAM***
 
 ## License
 
